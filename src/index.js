@@ -10,5 +10,4 @@ ReactDOM.render(
   document.getElementById("root")
 );
 
-// Measure performance
 reportWebVitals();
