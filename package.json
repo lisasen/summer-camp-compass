@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/lisasen/summer-camp-compass.git"
   },
-  "homepage": "https://lisasen.github.io/summer-camp-compass/",
+  "homepage": "https://lisasen.github.io/summer-camp-compass",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
