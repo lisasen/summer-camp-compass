@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/summer-camp-compass/static/js/main.ec85b510.js",
+    "static/js/453.e42d6f84.chunk.js": "/summer-camp-compass/static/js/453.e42d6f84.chunk.js",
+    "index.html": "/summer-camp-compass/index.html",
+    "main.ec85b510.js.map": "/summer-camp-compass/static/js/main.ec85b510.js.map",
+    "453.e42d6f84.chunk.js.map": "/summer-camp-compass/static/js/453.e42d6f84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ec85b510.js"
+  ]
+}
